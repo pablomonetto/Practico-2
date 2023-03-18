@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Test LOCAL / 01:30 - 18/03/2023
+=======
+Test REMOTO / 01:30 - 18/03/2023
+>>>>>>> bb9aacdff52143a68ecd9cab173f5e77294ccfb3
